@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Модальное окно</title>
+</head>
+<body>
+    <button onclick="openModal()">Открыть модальное окно</button>
+
+    <script>
+        function openModal() {
+            alert("Привет, это модальное окно!");
+        }
+    </script>
+</body>
+</html>
