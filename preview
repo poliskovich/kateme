@@ -1,0 +1,8 @@
+let numbers = [2, 5, 8, 3, 10];
+let sum = 0;
+
+for (let number of numbers) {
+    sum += number;
+}
+
+console.log("Сумма чисел:", sum);
